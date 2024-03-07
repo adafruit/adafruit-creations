@@ -12,4 +12,4 @@ Adafruit Allocated Creation IDs for Adafruit boards. Creator ID: `0x0000_239a`
 *  `0x00C3_0001` [Adafruit QT Py ESP32-C3](https://www.adafruit.com/product/5405)
 
 ## `0x00C6_xxxx` - ESP32-C6 dev boards
-*  `0x00C6_0001` [Adafruit Feather ESP32-C6](https://www.adafruit.com/product/5901)
+*  `0x00C6_0001` [Adafruit Feather ESP32-C6 4MB Flash No PSRAM](https://www.adafruit.com/product/5901)
